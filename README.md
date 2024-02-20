@@ -1,5 +1,5 @@
 # Mini-Challenge: Portfolio Website
-This project is an assigment for webtechnologies course at PLP Academy
+This project is an assigment for the Web Technologies course at PLP Academy
 
 
 # Requirements:
